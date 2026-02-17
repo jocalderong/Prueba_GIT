@@ -1,1 +1,1 @@
-print("Otro ratico mas hasta las 6 pm")
+print("Otro ratico mas hasta las 5:30 pm")
